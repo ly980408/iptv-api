@@ -2,10 +2,10 @@
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
+https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt
+https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 https://iptv-org.github.io/iptv/countries/cn.m3u
 https://myernestlu.github.io/zby.txt
-https://myernestlu.github.io/zby.txt
-https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 
 # http://iitv.top/tvzblrb
 # http://iitv.top/tvzb
